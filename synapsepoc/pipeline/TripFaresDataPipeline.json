@@ -291,7 +291,7 @@
 			},
 			"SQLLoginUsername": {
 				"type": "string",
-				"defaultValue": "<sql-login-username>"
+				"defaultValue": "masteruser"
 			},
 			"KeyVaultName": {
 				"type": "string",
