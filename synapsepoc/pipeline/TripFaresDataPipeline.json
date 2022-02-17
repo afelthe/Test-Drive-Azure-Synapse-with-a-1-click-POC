@@ -283,23 +283,23 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "conhhb6m4fysvgdapocws1"
+				"defaultValue": "https://web.azuresynapse.net?workspace=%2fsubscriptions%2f8d5a602c-a081-43c8-b849-ec6ea219520d%2fresourceGroups%2fMillmanLabs%2fproviders%2fMicrosoft.Synapse%2fworkspaces%2fdonkc7day3v62qtcepocws1"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
-				"defaultValue": "conhhb6m4fysvgdapocws1p1"
+				"defaultValue": "donkc7day3v62qtcepocws1p1 (donkc7day3v62qtcepocws1/donkc7day3v62qtcepocws1p1)"
 			},
 			"SQLLoginUsername": {
 				"type": "string",
-				"defaultValue": "masteruser"
+				"defaultValue": "amfelthe"
 			},
 			"KeyVaultName": {
 				"type": "string",
-				"defaultValue": "kvconhhb6m4fysvgdapoc"
+				"defaultValue": "kvdonkc7day3v62qtcepoc"
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": "conhhb6m4fysvgdapoc"
+				"defaultValue": "donkc7day3v62qtcepoc"
 			}
 		},
 		"folder": {
