@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--conc7day3v62qtcepocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/8d5a602c-a081-43c8-b849-ec6ea219520d/resourceGroups/MillmanLabs/providers/Microsoft.Synapse/workspaces/conc7day3v62qtcepocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"conc7day3v62qtcepocws1.d20b294a-eccd-4a33-ab8f-9205ab5c5f5a.sql.azuresynapse.net"
+		]
+	}
+}
