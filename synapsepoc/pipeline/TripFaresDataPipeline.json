@@ -283,7 +283,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "https://web.azuresynapse.net?workspace=%2fsubscriptions%2f8d5a602c-a081-43c8-b849-ec6ea219520d%2fresourceGroups%2fMillmanLabs%2fproviders%2fMicrosoft.Synapse%2fworkspaces%2fdonkc7day3v62qtcepocws1"
+				"defaultValue": "donkc7day3v62qtcepocws1.sql.azuresynapse.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
