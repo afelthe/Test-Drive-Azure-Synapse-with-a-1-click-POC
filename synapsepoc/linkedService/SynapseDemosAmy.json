@@ -1,0 +1,11 @@
+{
+	"name": "SynapseDemosAmy",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "1f35c41d-3415-4dc6-b7ce-4c3430f32e90",
+			"tenantID": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+		}
+	}
+}
